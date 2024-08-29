@@ -2,7 +2,7 @@
 
 
 - 🔭 We currently working as computer laboratory assitant in faculty of computer science @ <a href="https://www.mercubuana.ac.id">Mercu Buana University</a>
-- 🌱 We currently learning Front-End, Back-End, Operation, UI/UX, Data Science.
+- 🌱 We currently learning **Front-End, Back-End, Operation, UI/UX, Data Science**.
 - 👯 We looking to collaborate on various projects.
 - 💬 Ask us about information & technology.
 - 📫 How to reach us: see on our profile.
