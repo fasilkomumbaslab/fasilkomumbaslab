@@ -1,7 +1,7 @@
-![](https://komarev.com/ghpvc/?username=fasilkomumbaslab&label=Profile+Views)
++![](https://komarev.com/ghpvc/?username=fasilkomumbaslab&label=Profile+Views)
 
 <div align="center">
-  <a href=""><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/company/aslabfasilkomumb/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.instagram.com/aslabfasilkomumb/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=Instagram&logoColor=white" /></a>
   <a href="https://github.com/fasilkomumbaslab"><img src="https://img.shields.io/badge/Github-%23121011.svg?&logo=github&logoColor=white" /></a>
 </div>
